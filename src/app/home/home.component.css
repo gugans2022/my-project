@@ -1,0 +1,92 @@
+.space{
+    width: 80%;
+    display: inline-block;
+}
+.space2{
+    width: 20px;
+    display: inline-block;
+}
+.space3{
+letter-spacing: 2px;
+    display: inline-block;
+}
+.text-danger{
+    text-align: center;
+    size: 50px;
+}
+.container{
+    margin: auto;
+}
+.btn:hover{
+    color: rgba(238, 215, 12, 0.877);
+
+}
+
+.card-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    padding: 20px;
+    margin: 20px;
+    size-adjust: 10px;
+    border-color: red;
+}
+
+.card img {
+    width: auto;
+    height: auto;
+    margin-bottom: 5px;
+    transition: 0.3s ease-in-out;
+
+}
+
+.card:hover {
+    transition: 0.3s ease-in-out;
+    transform: scale(1.1);
+}
+
+.text-white{
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.phone{
+    color: rgb(23, 218, 49);
+    size: 4px;
+    justify-content: end;
+    
+}
+.phone:hover{
+    color: blue;
+  
+    
+}
+.text-danger{
+    text-align: left;
+}
+.card-title{
+    margin: auto;
+}
+
+.hrt{
+    font-size: 80px;
+    color:red;
+
+}
+.doctor{
+    font-size: 80px;
+    color:rgb(238, 11, 117);
+
+}
+.logo{
+    color:rgb(0, 4, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+}
+fa-icon{
+    font-size: 50px;
+    color: aliceblue;
+}
